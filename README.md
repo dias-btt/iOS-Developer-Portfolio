@@ -56,7 +56,7 @@ Lets Watch is an iOS application that allows users to discover movies based on t
 
 <p align="center">
 <img src="https://github.com/dias-btt/Let-sWatch/assets/69670999/c661e1b1-f36c-40a4-8d5f-df8f92fa50af", width="200"/>
-<img src="https://github.com/dias-btt/Let-sWatch/assets/69670999/0c7cbe8f-7270-4eec-83f7-636d1da8ea10", width="200"/>
+<img src="https://github.com/dias-btt/Let-sWatch/assets/69670999/21de0d8b-ce07-4eb5-a909-254010485bff", width="200"/>
 </p>
 
 ## 🛠 Technologies Used
@@ -67,4 +67,3 @@ Lets Watch is an iOS application that allows users to discover movies based on t
 - DispatchGroups
 - MVVM
 
-###
