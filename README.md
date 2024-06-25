@@ -44,8 +44,9 @@
   </a>
 </div>
 
-<h2 align="left"> Take a look at my projects below: </h2>
-
+<div>
+  <h2 align="left"> Take a look at my projects below: </h2>
+</div>
 ###
 
 <h2 align="left"> Lets Watch </h2>
