@@ -51,8 +51,20 @@
   <h2 align="left"> Take a look at my projects below: </h2>
 </div>
 
-# Lets Watch (https://github.com/dias-btt/Let-sWatch)
-<h6 align="left"> Lets Watch is an iOS application that allows users to discover movies based on their preferences and swipe through them similar to Tinder. Users can set filters such as rating, language, year, and genres to narrow down their movie choices. The app also includes a roulette feature to randomly select a movie from the filtered list. All watched movies are stored locally for future reference. </h6>
+# [Lets Watch](https://github.com/dias-btt/Let-sWatch)
+Lets Watch is an iOS application that allows users to discover movies based on their preferences and swipe through them similar to Tinder. Users can set filters such as rating, language, year, and genres to narrow down their movie choices. The app also includes a roulette feature to randomly select a movie from the filtered list. All watched movies are stored locally for future reference.
 
+<p align="center">
+<img src="https://github.com/dias-btt/Let-sWatch/assets/69670999/9e727306-cb1d-4486-86d3-afe60a172f19", width="200"/>
+<img src="https://github.com/dias-btt/Let-sWatch/assets/69670999/0c7cbe8f-7270-4eec-83f7-636d1da8ea10", width="200"/>
+</p>
+
+## 🛠 Technologies Used
+- Swift
+- SwiftUI
+- SwiftData
+- Alamofire
+- DispatchGroups
+- MVVM
 
 ###
