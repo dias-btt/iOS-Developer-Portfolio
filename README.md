@@ -46,6 +46,12 @@
 
 ###
 
-#Take a look at my projects below:
+<h2 align="left"> Take a look at my projects below: </h2>
+
+###
+
+<h2 align="left"> Lets Watch </h2>
+<h6 align="left"> Lets Watch is an iOS application that allows users to discover movies based on their preferences and swipe through them similar to Tinder. Users can set filters such as rating, language, year, and genres to narrow down their movie choices. The app also includes a roulette feature to randomly select a movie from the filtered list. All watched movies are stored locally for future reference. </h6>
+
 
 ###
