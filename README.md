@@ -67,6 +67,22 @@ Lets Watch is an iOS application that allows users to discover movies based on t
 - DispatchGroups
 - MVVM
 
+# [Qpia](https://apps.apple.com/kz/app/qpia-%D1%83%D1%80%D0%BE%D0%BA%D0%B8-%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0/id6473245345)
+Qpia is an iOS application that allows Russian speaking users to learn basic Kazakh words. Practice, learn and repeat new words, earn XP and compete in a leaderboard.
+
+<p align="center">
+<img src="https://github.com/dias-btt/Bambook/assets/69670999/a6d2416f-76b7-45ff-ac03-2e62fe4ecdc9", width="200"/>
+<img src="https://github.com/dias-btt/Bambook/assets/69670999/4276ebf2-f9b0-47b6-bced-a4150645ff2f", width="200"/>
+</p>
+
+## 🛠 Technologies Used
+- Swift
+- UIKit
+- Firebase
+- Alamofire
+- DispatchGroups
+- VIPER
+
 # [Bambook](https://github.com/dias-btt/Bambook)
 BamBook is a mobile application system designed to provide comprehensive book recommendations to users. The application addresses the gap in digital platforms by offering personalized book suggestions powered by advanced technologies. It utilizes Google’s YouTube Retrieval model, trained on the GoodReads dataset, to deliver relevant book recommendations. BamBook aims to enhance the user experience through an easily understandable interface and tailored recommendations based on user preferences.
 
