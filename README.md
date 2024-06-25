@@ -43,12 +43,15 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+<br>
+<br>
+<br>
 
 <div>
   <h2 align="left"> Take a look at my projects below: </h2>
 </div>
 
-<h2 align="left"> Lets Watch </h2>
+# Lets Watch (https://github.com/dias-btt/Let-sWatch)
 <h6 align="left"> Lets Watch is an iOS application that allows users to discover movies based on their preferences and swipe through them similar to Tinder. Users can set filters such as rating, language, year, and genres to narrow down their movie choices. The app also includes a roulette feature to randomly select a movie from the filtered list. All watched movies are stored locally for future reference. </h6>
 
 
