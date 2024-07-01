@@ -59,7 +59,6 @@ Bites is a food delivery app where you can order sorts of desers, coffee, tea an
 <img src="https://github.com/dias-btt/Bites/assets/69670999/d3ecc92b-744c-4f67-84ff-db67212ef08d", width="200"/>
 <img src="https://github.com/dias-btt/Bites/assets/69670999/abb08a55-f7aa-4f8c-9f20-f8cf815376c3", width="200"/>
 <img src="https://github.com/dias-btt/Bites/assets/69670999/cf05a02a-4440-4d67-9435-342c858127ab", width="200"/>
-<img src="https://github.com/dias-btt/Bites/assets/69670999/b95e7435-c6c3-4267-96a1-d92ce29220ea", width="200"/>
 </p>
 
 ## 🛠 Technologies Used
