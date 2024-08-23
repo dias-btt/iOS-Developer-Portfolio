@@ -101,6 +101,21 @@ Qpia is an iOS application that allows Russian speaking users to learn basic Kaz
 - DispatchGroups
 - VIPER
 
+# [Moody](https://github.com/dias-btt/Moody)
+Moody is an iOS application designed to create personalized playlists based on the user's current mood or emotional state. Whether you're feeling happy, relaxed, energetic, or nostalgic, Moody curates music that matches your mood preferences, enhancing your listening experience.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0b3cc6dd-3092-4928-91df-87ca51a528a9", width="200"/>
+<img src="https://github.com/user-attachments/assets/3bdf2f8c-a7db-4cd9-95cd-26470778af9b", width="200"/>
+<img src="https://github.com/user-attachments/assets/9ddfba60-4d3a-4b63-a191-f8dbb2440ad2", width="200"/>
+</p>
+
+## 🛠 Technologies Used
+- Swift
+- UIKit, SnapKit, Kingfisher
+- SpotifyAPI
+- MVVM
+
 # [Bambook](https://github.com/dias-btt/Bambook)
 BamBook is a mobile application system designed to provide comprehensive book recommendations to users. The application addresses the gap in digital platforms by offering personalized book suggestions powered by advanced technologies. It utilizes Google’s YouTube Retrieval model, trained on the GoodReads dataset, to deliver relevant book recommendations. BamBook aims to enhance the user experience through an easily understandable interface and tailored recommendations based on user preferences.
 
