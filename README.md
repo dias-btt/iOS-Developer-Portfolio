@@ -101,7 +101,7 @@ Qpia is an iOS application that allows Russian speaking users to learn basic Kaz
 - DispatchGroups
 - VIPER
 
-# [Moody](https://github.com/dias-btt/Moody)
+# [Moody](https://github.com/dias-btt/Moody/tree/dev)
 Moody is an iOS application designed to create personalized playlists based on the user's current mood or emotional state. Whether you're feeling happy, relaxed, energetic, or nostalgic, Moody curates music that matches your mood preferences, enhancing your listening experience.
 
 <p align="center">
