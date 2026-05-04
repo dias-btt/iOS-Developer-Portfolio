@@ -55,10 +55,10 @@
 Clario is an AI-powered note-taking and productivity app for iOS that helps users organize thoughts, create smart summaries, and manage daily tasks in a clean and intuitive interface.
 
 <p align="center">
-<img src="YOUR_SCREENSHOT_1_URL", width="200"/>
-<img src="YOUR_SCREENSHOT_2_URL", width="200"/>
-<img src="YOUR_SCREENSHOT_3_URL", width="200"/>
-<img src="YOUR_SCREENSHOT_4_URL", width="200"/>
+<img src="https://github.com/user-attachments/assets/db56152a-7442-4cd3-a679-483380589976", width="200"/>
+<img src="https://github.com/user-attachments/assets/4e0ce346-3242-4db2-9aa1-b1d0cf344cf9", width="200"/>
+<img src="https://github.com/user-attachments/assets/7c8d8d57-460d-4ae3-a9bc-744b8c4504cc", width="200"/>
+<img src="https://github.com/user-attachments/assets/6876d9e6-2346-4893-a443-da165798c0a7", width="200"/>
 </p>
 
 ## 🛠 Technologies Used
