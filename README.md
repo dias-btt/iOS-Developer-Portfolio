@@ -51,23 +51,23 @@
   <h1 align="left"> Take a look at my projects below: </h1>
 </div>
 
-# [Bites](https://github.com/dias-btt/Bites)
-Bites is a food delivery app where you can order sorts of desers, coffee, tea and many more. You can choose either to order a delivery, pickup by yourself or order to a table. Other functionalities are adding your addresses, credit cards, earning and spending bonuses and edit your profile.
+# [Clario](https://github.com/dias-btt/Clario)
+Clario is an AI-powered note-taking and productivity app for iOS that helps users organize thoughts, create smart summaries, and manage daily tasks in a clean and intuitive interface.
 
 <p align="center">
-<img src="https://github.com/dias-btt/Bites/assets/69670999/6ab714bd-00f8-4567-9494-ddcff0110e6b", width="200"/>
-<img src="https://github.com/dias-btt/Bites/assets/69670999/d3ecc92b-744c-4f67-84ff-db67212ef08d", width="200"/>
-<img src="https://github.com/dias-btt/Bites/assets/69670999/abb08a55-f7aa-4f8c-9f20-f8cf815376c3", width="200"/>
-<img src="https://github.com/dias-btt/Bites/assets/69670999/cf05a02a-4440-4d67-9435-342c858127ab", width="200"/>
+<img src="YOUR_SCREENSHOT_1_URL", width="200"/>
+<img src="YOUR_SCREENSHOT_2_URL", width="200"/>
+<img src="YOUR_SCREENSHOT_3_URL", width="200"/>
+<img src="YOUR_SCREENSHOT_4_URL", width="200"/>
 </p>
 
 ## 🛠 Technologies Used
 - Swift
 - SwiftUI
-- MapKit, CoreLocation
-- Firebase Database, Firebase Authentication
-- Alamofire
+- CoreData
+- OpenAI API
 - MVVM
+- Combine
 
 # [Lets Watch](https://github.com/dias-btt/Let-sWatch)
 Lets Watch is an iOS application that allows users to discover movies based on their preferences and swipe through them similar to Tinder. Users can set filters such as rating, language, year, and genres to narrow down their movie choices. The app also includes a roulette feature to randomly select a movie from the filtered list. All watched movies are stored locally for future reference.
