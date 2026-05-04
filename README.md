@@ -1,14 +1,5 @@
 <h2 align="left">Greetings 👋<br> My name is Dias and I'm an iOS developer, from Astana, Kazakhstan.</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dias-btt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dias-btt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
-</div>
-
-###
-
 <img align="right" width="350" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ3M2JqY2JvY3Q1bG0xOHJ5bXF0eDZsYTF2NmQ5Z3M2c3Y3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
 ###
