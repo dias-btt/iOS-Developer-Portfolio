@@ -1,46 +1,81 @@
-<h2 align="left">Greetings 👋<br> My name is Dias and I'm an iOS developer, from Astana, Kazakhstan.</h2>
+<h1 align="center">Hi 👋, I'm Dias Saiynov</h1>
+<h3 align="center">iOS Developer from Astana, Kazakhstan 🇰🇿</h3>
 
-<img align="right" width="350" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ3M2JqY2JvY3Q1bG0xOHJ5bXF0eDZsYTF2NmQ5Z3M2c3Y3aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+<p align="center">
+  Passionate about building clean, scalable and user-focused iOS applications using Swift, SwiftUI and UIKit.
+</p>
 
-###
+<p align="center">
+  <a href="https://github.com/dias-btt">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7768E&center=true&vCenter=true&random=false&width=600&lines=Swift+%7C+SwiftUI+%7C+UIKit;Building+beautiful+iOS+experiences;Clean+Architecture+%7C+MVVM+%7C+VIPER;Open+to+iOS+opportunities" alt="Typing SVG" />
+  </a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dias-btt&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dias-btt&layout=compact&theme=dracula&hide_border=true" height="165"/>
 </div>
 
-###
+<br>
 
-<div align="left">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="45" alt="swift"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="45" alt="apple"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="45" alt="xcode"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github"/>
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma"/>
+</div>
+
+<br>
+
+<div align="center">
+
+| 💼 Focus | 🚀 Interests | 🧠 Architecture |
+|---|---|---|
+| iOS Development | AI-powered apps | MVVM / VIPER |
+| SwiftUI & UIKit | Product Design | Clean Architecture |
+| Scalable Mobile Apps | App Performance | Modular Development |
+
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/dias-saiynov-884a911a7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dias.saiynov@alumni.nu.edu.kz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  
+  <a href="mailto:dias.saiynov@alumni.nu.edu.kz">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
   <a href="https://t.me/dsaiynov" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+  
   <a href="https://www.instagram.com/sdiesz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
-<br>
-<br>
+
 <br>
 
-<div>
-  <h1 align="left"> Take a look at my projects below: </h1>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dias-btt&label=Profile%20Views&color=F7768E&style=flat" alt="profile views"/>
 </div>
+
+---
+
+# 🚀 Featured Projects
+
 
 # [Clario](https://github.com/dias-btt/Clario)
 Clario is an AI-powered note-taking and productivity app for iOS that helps users organize thoughts, create smart summaries, and manage daily tasks in a clean and intuitive interface.
